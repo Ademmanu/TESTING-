@@ -1,6 +1,8 @@
 python-telegram-bot==20.7
 pandas==2.1.0
 phonenumbers==8.13.27
-whatsapp-chatbot-api>=0.1.8  # For WhatsApp checking
 python-dotenv==1.0.0
 aiofiles==23.2.1
+pywhatkit==5.4
+openpyxl==3.1.2
+requests==2.31.0
